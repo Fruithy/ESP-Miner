@@ -1,3 +1,4 @@
+#include "btc_price.h"
 #include <string.h>
 #include <stdio.h>
 #include "freertos/FreeRTOS.h"
